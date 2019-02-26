@@ -1,6 +1,15 @@
 # Image_localization-
 The flipkart image localization challenge.
 
+
+## Test Results
+![](images/Selection_007.png)
+![](images/Selection_008.png)
+![](images/Selection_009.png)
+![](images/Selection_010.png)
+
+
+
 ## Details
 
 ### 1. Preprocessing:
@@ -30,4 +39,3 @@ Training l2 --  1456.77
 
 Test IoU -- 0.743
 
-## Test samples
