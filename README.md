@@ -39,3 +39,11 @@ Training l2 --  1456.77
 
 Test IoU -- 0.743
 
+### Tensorboard Visualisation:
+IoU score:
+![](images/Selection_016.png)
+
+L2 Loss:
+![](images/Selection_017.png)
+
+
